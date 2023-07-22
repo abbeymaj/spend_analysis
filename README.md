@@ -4,7 +4,8 @@
 - Requests
 
 **Technology Used**
-Python and Tableau
+- Python
+- Tableau
 
 **Description of the Project**
 
